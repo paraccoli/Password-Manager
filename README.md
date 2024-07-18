@@ -108,7 +108,7 @@ This application is a Python-based GUI tool for securely managing passwords. It 
 ## Security Notes
 - This application uses Fernet encryption to protect your passwords.
 - Keep your master password secure and don't forget it. If you lose your master password, you won't be able to access any of your stored passwords.
-- This tool is intended for personal use. Consider using tools with more advanced security measures to manage susceptible information.
+- This tool is intended for personal use. You should consider using tools with more advanced security measures to manage susceptible information.
 
 
 ## **作成者 Developer**
