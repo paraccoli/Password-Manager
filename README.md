@@ -52,6 +52,8 @@
 - マスターパスワードは適切に保護し、忘れないようにしてください。マスターパスワードを失うと、保存したすべてのパスワードにアクセスできなくなります。
 - このツールは個人使用を目的としています。重要な情報の管理には、さらに高度なセキュリティ対策を施したツールの使用を検討してください。
 
+<img src="https://github.com/xM1guel/Password-Manager/blob/main/image.png" wigth="40" hight="20">
+
 ---
 
 # Password Manager Application
@@ -64,7 +66,7 @@ This application is a Python-based GUI tool for securely managing passwords. It 
 - Password retrieval by service name
 - Automatic generation of strong passwords
 - Password editing and deletion functionality
-- Display of all stored passwords
+- Display all stored passwords
 - Password strength checker
 - Data export and import functionality
 - User interface available in Japanese, English, and Chinese
@@ -106,9 +108,8 @@ This application is a Python-based GUI tool for securely managing passwords. It 
 ## Security Notes
 - This application uses Fernet encryption to protect your passwords.
 - Keep your master password secure and don't forget it. If you lose your master password, you won't be able to access any of your stored passwords.
-- This tool is intended for personal use. For managing highly sensitive information, consider using tools with more advanced security measures.
+- This tool is intended for personal use. Consider using tools with more advanced security measures to manage susceptible information.
 
-<img src="">
 
 ## **作成者 Developer**
 
